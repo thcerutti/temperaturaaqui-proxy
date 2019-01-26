@@ -1,0 +1,14 @@
+C:\repos\DisplayTemperaturaProxy\bin\Debug\netcoreapp2.1\DisplayTemperaturaProxy.deps.json
+C:\repos\DisplayTemperaturaProxy\bin\Debug\netcoreapp2.1\DisplayTemperaturaProxy.runtimeconfig.json
+C:\repos\DisplayTemperaturaProxy\bin\Debug\netcoreapp2.1\DisplayTemperaturaProxy.runtimeconfig.dev.json
+C:\repos\DisplayTemperaturaProxy\bin\Debug\netcoreapp2.1\DisplayTemperaturaProxy.dll
+C:\repos\DisplayTemperaturaProxy\bin\Debug\netcoreapp2.1\DisplayTemperaturaProxy.pdb
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.csproj.CoreCompileInputs.cache
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.RazorAssemblyInfo.cache
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.RazorAssemblyInfo.cs
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.AssemblyInfoInputs.cache
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.AssemblyInfo.cs
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.RazorTargetAssemblyInfo.cache
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.dll
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.pdb
+C:\repos\DisplayTemperaturaProxy\obj\Debug\netcoreapp2.1\DisplayTemperaturaProxy.csprojAssemblyReference.cache
