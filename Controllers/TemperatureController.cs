@@ -19,13 +19,13 @@ namespace DisplayTemperaturaProxy.Controllers
 
         // GET api/values
         [HttpGet]
-        public async Task<ActionResult<string>> Get()
+        public ActionResult<string> Get()
         {
             using (var client = new HttpClient())
             {
                 var url = (string)_config.GetValue(typeof(string), "AppSettings:ApiDeviceUrl");
-                var response = await client.GetAsync(url);
-                var jsonResponse = JObject.Parse(await response.Content.ReadAsStringAsync());
+                var response = client.GetAsync(url).Result;
+                var jsonResponse = JObject.Parse(response.Content.ReadAsStringAsync().Result);
                 return FormatTemperature((decimal)jsonResponse["t"]);
             }
         }
